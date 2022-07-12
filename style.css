@@ -30,9 +30,12 @@
 .heading{
     text-align: center;
     margin: 20px;
+    color: chartreuse;
+    font-size: 40px;
 }
 .price{
     margin-top:10px;
     color: green;
     font-size: 2em;
+    cursor: pointer;
 }
